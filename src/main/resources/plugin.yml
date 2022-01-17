@@ -1,0 +1,4 @@
+name: BetterHelp
+version: '${version}'
+main: com.github.u9g.betterhelp.Main
+api-version: 1.18

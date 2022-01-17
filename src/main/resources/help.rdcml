@@ -1,0 +1,4 @@
+help int<1,>:page*? {
+    hook help
+    help Lists commands.
+}
